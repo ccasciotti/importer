@@ -1,0 +1,4 @@
+.project
+composer.phar
+composer.lock
+vendor/
